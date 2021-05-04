@@ -1,0 +1,5 @@
+---
+applications:
+- name: awesome-feature-toggle-service-production
+  path: ../../../target/awesome-feature-toggle-service.jar
+# edit this to fit your prod env

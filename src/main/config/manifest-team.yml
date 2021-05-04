@@ -1,0 +1,5 @@
+---
+applications:
+- name: awesome-feature-toggle-service-team
+  path: ../../../target/awesome-feature-toggle-service.jar
+# edit this to fit your test env
